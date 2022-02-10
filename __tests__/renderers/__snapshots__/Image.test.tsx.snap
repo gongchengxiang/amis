@@ -32,5 +32,8 @@ exports[`Renderer:image 1`] = `
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

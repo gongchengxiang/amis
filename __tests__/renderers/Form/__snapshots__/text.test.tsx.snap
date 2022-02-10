@@ -33,6 +33,9 @@ exports[`Renderer:text 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -124,6 +127,9 @@ exports[`Renderer:text 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -158,6 +164,9 @@ exports[`Renderer:text type is email: validate fail 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-error has-error--isEmail"
@@ -258,6 +267,9 @@ exports[`Renderer:text type is email: validate fail 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -292,6 +304,9 @@ exports[`Renderer:text type is email: validate success 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -385,6 +400,9 @@ exports[`Renderer:text type is email: validate success 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -419,6 +437,9 @@ exports[`Renderer:text type is password 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -512,6 +533,9 @@ exports[`Renderer:text type is password 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -546,6 +570,9 @@ exports[`Renderer:text type is url: validate fail 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-error has-error--isUrl"
@@ -646,6 +673,9 @@ exports[`Renderer:text type is url: validate fail 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -680,6 +710,9 @@ exports[`Renderer:text type is url: validate success 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -773,6 +806,9 @@ exports[`Renderer:text type is url: validate success 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -807,6 +843,9 @@ exports[`Renderer:text with addOn 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -912,6 +951,9 @@ exports[`Renderer:text with addOn 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -946,6 +988,9 @@ exports[`Renderer:text with clearable 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -1047,6 +1092,9 @@ exports[`Renderer:text with clearable 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1083,6 +1131,9 @@ exports[`Renderer:text with counter 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -1179,6 +1230,9 @@ exports[`Renderer:text with counter 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1215,6 +1269,9 @@ exports[`Renderer:text with counter 2`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -1311,6 +1368,9 @@ exports[`Renderer:text with counter 2`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1345,6 +1405,9 @@ exports[`Renderer:text with counter and maxLength 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -1443,6 +1506,9 @@ exports[`Renderer:text with counter and maxLength 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1477,6 +1543,9 @@ exports[`Renderer:text with counter and maxLength 2`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -1575,6 +1644,9 @@ exports[`Renderer:text with counter and maxLength 2`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1615,6 +1687,9 @@ exports[`Renderer:text with options 1`] = `
             {}
           </code>
         </pre>
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -1713,6 +1788,9 @@ exports[`Renderer:text with options 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1755,6 +1833,9 @@ exports[`Renderer:text with options and multiple: first option selected 1`] = `
 }
           </code>
         </pre>
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -1903,6 +1984,9 @@ exports[`Renderer:text with options and multiple: first option selected 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1943,6 +2027,9 @@ exports[`Renderer:text with options and multiple: options is opened 1`] = `
             {}
           </code>
         </pre>
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -2087,6 +2174,9 @@ exports[`Renderer:text with options and multiple: options is opened 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -2129,6 +2219,9 @@ exports[`Renderer:text with options and multiple: options is opened again, and f
 }
           </code>
         </pre>
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -2277,6 +2370,9 @@ exports[`Renderer:text with options and multiple: options is opened again, and f
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -2319,6 +2415,9 @@ exports[`Renderer:text with options and multiple: second option selected 1`] = `
 }
           </code>
         </pre>
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -2471,6 +2570,9 @@ exports[`Renderer:text with options and multiple: second option selected 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -2511,6 +2613,9 @@ exports[`Renderer:text with options: options is open 1`] = `
             {}
           </code>
         </pre>
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -2635,6 +2740,9 @@ exports[`Renderer:text with options: options is open 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -2677,6 +2785,9 @@ exports[`Renderer:text with options: select first option 1`] = `
 }
           </code>
         </pre>
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -2777,6 +2888,9 @@ exports[`Renderer:text with options: select first option 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -2811,6 +2925,9 @@ exports[`Renderer:text with prefix and suffix 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -2914,5 +3031,8 @@ exports[`Renderer:text with prefix and suffix 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

@@ -11,6 +11,9 @@ exports[`options:linkage 1`] = `
       type="submit"
     />
     <div
+      class="cxd-Spinner-wrap"
+    />
+    <div
       class="cxd-Form-item cxd-Form-item--normal"
       data-role="form-item"
     >
@@ -112,6 +115,9 @@ exports[`options:linkage 1`] = `
       </div>
     </div>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -124,6 +130,9 @@ exports[`options:linkage 2`] = `
     <input
       style="display: none;"
       type="submit"
+    />
+    <div
+      class="cxd-Spinner-wrap"
     />
     <div
       class="cxd-Form-item cxd-Form-item--normal"
@@ -228,6 +237,9 @@ exports[`options:linkage 2`] = `
       </div>
     </div>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -240,6 +252,9 @@ exports[`options:linkage 3`] = `
     <input
       style="display: none;"
       type="submit"
+    />
+    <div
+      class="cxd-Spinner-wrap"
     />
     <div
       class="cxd-Form-item cxd-Form-item--normal"
@@ -330,6 +345,9 @@ exports[`options:linkage 3`] = `
       </div>
     </div>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -342,6 +360,9 @@ exports[`options:linkage 4`] = `
     <input
       style="display: none;"
       type="submit"
+    />
+    <div
+      class="cxd-Spinner-wrap"
     />
     <div
       class="cxd-Form-item cxd-Form-item--normal"
@@ -458,5 +479,8 @@ exports[`options:linkage 4`] = `
       </div>
     </div>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

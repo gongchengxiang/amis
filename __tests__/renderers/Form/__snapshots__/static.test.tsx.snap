@@ -33,6 +33,9 @@ exports[`Renderer:static 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal bg-white"
           data-role="form-item"
         >
@@ -156,5 +159,8 @@ exports[`Renderer:static 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

@@ -33,6 +33,9 @@ exports[`Renderer:tabs 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Tabs cxd-Tabs--line"
         >
           <ul
@@ -186,5 +189,8 @@ exports[`Renderer:tabs 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

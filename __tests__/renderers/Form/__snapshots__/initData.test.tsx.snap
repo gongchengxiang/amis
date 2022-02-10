@@ -11,6 +11,9 @@ exports[`Form:initData 1`] = `
       type="submit"
     />
     <div
+      class="cxd-Spinner-wrap"
+    />
+    <div
       class="cxd-Form-item cxd-Form-item--normal"
       data-role="form-item"
     >
@@ -61,6 +64,9 @@ exports[`Form:initData 1`] = `
       </span>
     </button>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -104,11 +110,17 @@ exports[`Form:initData:remote 1`] = `
           type="submit"
         />
         <div
-          class="cxd-Spinner-overlay in"
-        />
-        <div
-          class="cxd-Spinner in cxd-Spinner--overlay"
-        />
+          class="cxd-Spinner-wrap"
+        >
+          <div
+            class="cxd-Spinner-content cxd-Spinner-tip--bottom"
+          >
+            <div
+              class="cxd-Spinner cxd-Spinner--default"
+            />
+            
+          </div>
+        </div>
         <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
@@ -202,6 +214,9 @@ exports[`Form:initData:remote 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -254,10 +269,7 @@ exports[`Form:initData:remote 3`] = `
           type="submit"
         />
         <div
-          class="cxd-Spinner-overlay"
-        />
-        <div
-          class="cxd-Spinner cxd-Spinner--overlay"
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -351,6 +363,9 @@ exports[`Form:initData:remote 3`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -375,69 +390,79 @@ exports[`Form:initData:super 1`] = `
         <div
           class="cxd-Page-body"
         >
-          <form
-            class="cxd-Form cxd-Form--normal"
-            novalidate=""
+          <div
+            class="cxd-Spinner-wrap"
           >
-            <input
-              style="display: none;"
-              type="submit"
-            />
-            <div
-              class="cxd-Form-item cxd-Form-item--normal"
-              data-role="form-item"
+            <form
+              class="cxd-Form cxd-Form--normal"
+              novalidate=""
             >
+              <input
+                style="display: none;"
+                type="submit"
+              />
               <div
-                class="cxd-Form-control cxd-TextControl"
+                class="cxd-Spinner-wrap"
+              />
+              <div
+                class="cxd-Form-item cxd-Form-item--normal"
+                data-role="form-item"
               >
                 <div
-                  class="cxd-TextControl-input"
+                  class="cxd-Form-control cxd-TextControl"
                 >
-                  <input
-                    autocomplete="off"
-                    name="a"
-                    placeholder=""
-                    size="10"
-                    type="text"
-                    value="1"
-                  />
+                  <div
+                    class="cxd-TextControl-input"
+                  >
+                    <input
+                      autocomplete="off"
+                      name="a"
+                      placeholder=""
+                      size="10"
+                      type="text"
+                      value="1"
+                    />
+                  </div>
                 </div>
               </div>
-            </div>
-            <div
-              class="cxd-Form-item cxd-Form-item--normal"
-              data-role="form-item"
-            >
               <div
-                class="cxd-Form-control cxd-TextControl"
+                class="cxd-Form-item cxd-Form-item--normal"
+                data-role="form-item"
               >
                 <div
-                  class="cxd-TextControl-input"
+                  class="cxd-Form-control cxd-TextControl"
                 >
-                  <input
-                    autocomplete="off"
-                    name="b"
-                    placeholder=""
-                    size="10"
-                    type="text"
-                    value="2"
-                  />
+                  <div
+                    class="cxd-TextControl-input"
+                  >
+                    <input
+                      autocomplete="off"
+                      name="b"
+                      placeholder=""
+                      size="10"
+                      type="text"
+                      value="2"
+                    />
+                  </div>
                 </div>
               </div>
-            </div>
-            <button
-              class="cxd-Button cxd-Button--default"
-              type="submit"
-            >
-              <span>
-                Submit
-              </span>
-            </button>
-          </form>
+              <button
+                class="cxd-Button cxd-Button--default"
+                type="submit"
+              >
+                <span>
+                  Submit
+                </span>
+              </button>
+            </form>
+          </div>
         </div>
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -455,69 +480,79 @@ exports[`Form:initData:without-super 1`] = `
         <div
           class="cxd-Page-body"
         >
-          <form
-            class="cxd-Form cxd-Form--normal"
-            novalidate=""
+          <div
+            class="cxd-Spinner-wrap"
           >
-            <input
-              style="display: none;"
-              type="submit"
-            />
-            <div
-              class="cxd-Form-item cxd-Form-item--normal"
-              data-role="form-item"
+            <form
+              class="cxd-Form cxd-Form--normal"
+              novalidate=""
             >
+              <input
+                style="display: none;"
+                type="submit"
+              />
               <div
-                class="cxd-Form-control cxd-TextControl"
+                class="cxd-Spinner-wrap"
+              />
+              <div
+                class="cxd-Form-item cxd-Form-item--normal"
+                data-role="form-item"
               >
                 <div
-                  class="cxd-TextControl-input"
+                  class="cxd-Form-control cxd-TextControl"
                 >
-                  <input
-                    autocomplete="off"
-                    name="a"
-                    placeholder=""
-                    size="10"
-                    type="text"
-                    value=""
-                  />
+                  <div
+                    class="cxd-TextControl-input"
+                  >
+                    <input
+                      autocomplete="off"
+                      name="a"
+                      placeholder=""
+                      size="10"
+                      type="text"
+                      value=""
+                    />
+                  </div>
                 </div>
               </div>
-            </div>
-            <div
-              class="cxd-Form-item cxd-Form-item--normal"
-              data-role="form-item"
-            >
               <div
-                class="cxd-Form-control cxd-TextControl"
+                class="cxd-Form-item cxd-Form-item--normal"
+                data-role="form-item"
               >
                 <div
-                  class="cxd-TextControl-input"
+                  class="cxd-Form-control cxd-TextControl"
                 >
-                  <input
-                    autocomplete="off"
-                    name="b"
-                    placeholder=""
-                    size="10"
-                    type="text"
-                    value=""
-                  />
+                  <div
+                    class="cxd-TextControl-input"
+                  >
+                    <input
+                      autocomplete="off"
+                      name="b"
+                      placeholder=""
+                      size="10"
+                      type="text"
+                      value=""
+                    />
+                  </div>
                 </div>
               </div>
-            </div>
-            <button
-              class="cxd-Button cxd-Button--default"
-              type="submit"
-            >
-              <span>
-                Submit
-              </span>
-            </button>
-          </form>
+              <button
+                class="cxd-Button cxd-Button--default"
+                type="submit"
+              >
+                <span>
+                  Submit
+                </span>
+              </button>
+            </form>
+          </div>
         </div>
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 

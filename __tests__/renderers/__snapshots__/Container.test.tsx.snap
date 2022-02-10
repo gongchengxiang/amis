@@ -15,28 +15,35 @@ exports[`Renderer:container 1`] = `
           class="cxd-Page-body"
         >
           <div
-            class="cxd-Container bg-white"
+            class="cxd-Spinner-wrap"
           >
             <div
-              class="cxd-Container-body"
+              class="cxd-Container bg-white"
             >
-              <span
-                class="cxd-TplField"
+              <div
+                class="cxd-Container-body"
               >
-                <span>
-                  内容1
+                <span
+                  class="cxd-TplField"
+                >
+                  <span>
+                    内容1
+                  </span>
                 </span>
-              </span>
-              <span
-                class="cxd-PlainField"
-              >
-                内容2
-              </span>
+                <span
+                  class="cxd-PlainField"
+                >
+                  内容2
+                </span>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

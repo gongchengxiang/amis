@@ -33,6 +33,9 @@ exports[`Renderer:FormItem:validateApi:failed 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal is-error is-required has-error--isRequired"
           data-role="form-item"
         >
@@ -136,6 +139,9 @@ exports[`Renderer:FormItem:validateApi:failed 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -170,6 +176,9 @@ exports[`Renderer:FormItem:validateApi:failed 2`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-error is-required"
@@ -275,6 +284,9 @@ exports[`Renderer:FormItem:validateApi:failed 2`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -309,6 +321,9 @@ exports[`Renderer:FormItem:validateApi:success 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-error is-required has-error--isRequired"
@@ -414,6 +429,9 @@ exports[`Renderer:FormItem:validateApi:success 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 

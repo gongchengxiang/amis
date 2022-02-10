@@ -33,6 +33,9 @@ exports[`Renderer:radios 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -183,6 +186,9 @@ exports[`Renderer:radios 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -217,6 +223,9 @@ exports[`Renderer:radios 2`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -365,5 +374,8 @@ exports[`Renderer:radios 2`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

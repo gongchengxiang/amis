@@ -27,22 +27,23 @@ exports[`api:cache 1`] = `
           class="cxd-Page-body"
         >
           <div
-            class="cxd-Spinner-overlay"
-          />
-          <div
-            class="cxd-Spinner cxd-Spinner--overlay cxd-Spinner--lg"
-          />
-          <span
-            class="cxd-TplField"
+            class="cxd-Spinner-wrap"
           >
-            <span>
-              The variable value is 1
+            <span
+              class="cxd-TplField"
+            >
+              <span>
+                The variable value is 1
+              </span>
             </span>
-          </span>
+          </div>
         </div>
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -73,21 +74,22 @@ exports[`api:cache 2`] = `
           class="cxd-Page-body"
         >
           <div
-            class="cxd-Spinner-overlay"
-          />
-          <div
-            class="cxd-Spinner cxd-Spinner--overlay cxd-Spinner--lg"
-          />
-          <span
-            class="cxd-TplField"
+            class="cxd-Spinner-wrap"
           >
-            <span>
-              The variable value is 1
+            <span
+              class="cxd-TplField"
+            >
+              <span>
+                The variable value is 1
+              </span>
             </span>
-          </span>
+          </div>
         </div>
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

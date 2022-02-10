@@ -11,5 +11,8 @@ exports[`Renderer:mapping 1`] = `
       -
     </span>
   </span>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

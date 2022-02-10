@@ -33,6 +33,9 @@ exports[`Renderer:service 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal is-required"
           data-role="form-item"
         >
@@ -166,10 +169,7 @@ exports[`Renderer:service 1`] = `
             </div>
           </div>
           <div
-            class="cxd-Spinner-overlay"
-          />
-          <div
-            class="cxd-Spinner cxd-Spinner--overlay cxd-Spinner--lg"
+            class="cxd-Spinner-wrap"
           />
         </div>
       </form>
@@ -214,6 +214,9 @@ exports[`Renderer:service 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -226,6 +229,9 @@ exports[`form:service:remoteData 1`] = `
     <input
       style="display: none;"
       type="submit"
+    />
+    <div
+      class="cxd-Spinner-wrap"
     />
     <div
       class="cxd-Service"
@@ -256,10 +262,7 @@ exports[`form:service:remoteData 1`] = `
         </div>
       </div>
       <div
-        class="cxd-Spinner-overlay"
-      />
-      <div
-        class="cxd-Spinner cxd-Spinner--overlay cxd-Spinner--lg"
+        class="cxd-Spinner-wrap"
       />
     </div>
     <div
@@ -276,6 +279,9 @@ exports[`form:service:remoteData 1`] = `
       </button>
     </div>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -288,6 +294,9 @@ exports[`form:service:remoteSchmea+data 1`] = `
     <input
       style="display: none;"
       type="submit"
+    />
+    <div
+      class="cxd-Spinner-wrap"
     />
     <div
       class="cxd-Service"
@@ -339,10 +348,7 @@ exports[`form:service:remoteSchmea+data 1`] = `
         </div>
       </div>
       <div
-        class="cxd-Spinner-overlay"
-      />
-      <div
-        class="cxd-Spinner cxd-Spinner--overlay cxd-Spinner--lg"
+        class="cxd-Spinner-wrap"
       />
     </div>
     <div
@@ -359,6 +365,9 @@ exports[`form:service:remoteSchmea+data 1`] = `
       </button>
     </div>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -373,10 +382,7 @@ exports[`form:service:super-remoteData 1`] = `
       type="submit"
     />
     <div
-      class="cxd-Spinner-overlay"
-    />
-    <div
-      class="cxd-Spinner cxd-Spinner--overlay"
+      class="cxd-Spinner-wrap"
     />
     <div
       class="cxd-Service"
@@ -406,6 +412,9 @@ exports[`form:service:super-remoteData 1`] = `
           </div>
         </div>
       </div>
+      <div
+        class="cxd-Spinner-wrap"
+      />
     </div>
     <div
       class="cxd-Form-item cxd-Form-item--normal"
@@ -421,5 +430,8 @@ exports[`form:service:super-remoteData 1`] = `
       </button>
     </div>
   </form>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

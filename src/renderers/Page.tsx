@@ -763,21 +763,21 @@ export default class Page extends React.Component<PageProps> {
           <div className={cx('Page-main')}>
             {this.renderHeader()}
             <div className={cx(`Page-body`, bodyClassName)}>
-              <Spinner size="lg" overlay key="info" show={store.loading} />
+              <Spinner size="lg" overlay key="info" show={store.loading}>
+                {store.error && showErrorMsg !== false ? (
+                  <Alert
+                    level="danger"
+                    showCloseButton
+                    onClose={store.clearMessage}
+                  >
+                    {store.msg}
+                  </Alert>
+                ) : null}
 
-              {store.error && showErrorMsg !== false ? (
-                <Alert
-                  level="danger"
-                  showCloseButton
-                  onClose={store.clearMessage}
-                >
-                  {store.msg}
-                </Alert>
-              ) : null}
-
-              {(Array.isArray(regions) ? ~regions.indexOf('body') : body)
-                ? render('body', body || '', subProps)
-                : null}
+                {(Array.isArray(regions) ? ~regions.indexOf('body') : body)
+                  ? render('body', body || '', subProps)
+                  : null}
+              </Spinner>
             </div>
           </div>
         </div>

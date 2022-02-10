@@ -8,6 +8,9 @@ exports[`Renderer:iframe 1`] = `
     src="https://www.baidu.com"
     style="width: 500px; height: 500px;"
   />
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -18,6 +21,9 @@ exports[`Renderer:iframe-escape 1`] = `
     frameborder="0"
     src="https://www.baidu.com/?s=%25f"
     style="width: 500px; height: 500px;"
+  />
+  <div
+    class="cxd-Spinner-wrap"
   />
 </div>
 `;
@@ -36,15 +42,22 @@ exports[`Renderer:iframe-var 1`] = `
         <div
           class="cxd-Page-body"
         >
-          <iframe
-            class="b-a"
-            frameborder="0"
-            src="https://www.baidu.com"
-            style="width: 500px; height: 500px;"
-          />
+          <div
+            class="cxd-Spinner-wrap"
+          >
+            <iframe
+              class="b-a"
+              frameborder="0"
+              src="https://www.baidu.com"
+              style="width: 500px; height: 500px;"
+            />
+          </div>
         </div>
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

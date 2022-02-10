@@ -167,5 +167,8 @@ exports[`Renderer:alert 1`] = `
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

@@ -7,5 +7,8 @@ exports[`Renderer:date 1`] = `
   >
     2019-06-07
   </span>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

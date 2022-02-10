@@ -33,6 +33,9 @@ exports[`Renderer:Form 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -124,6 +127,9 @@ exports[`Renderer:Form 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -179,10 +185,7 @@ exports[`Renderer:Form initApi 1`] = `
           type="submit"
         />
         <div
-          class="cxd-Spinner-overlay"
-        />
-        <div
-          class="cxd-Spinner cxd-Spinner--overlay"
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -310,6 +313,9 @@ exports[`Renderer:Form initApi 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -346,10 +352,7 @@ exports[`Renderer:Form sendOn:true 1`] = `
           type="submit"
         />
         <div
-          class="cxd-Spinner-overlay"
-        />
-        <div
-          class="cxd-Spinner cxd-Spinner--overlay"
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -477,6 +480,9 @@ exports[`Renderer:Form sendOn:true 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -511,6 +517,9 @@ exports[`Renderer:Form:onValidate 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-error"
@@ -655,6 +664,9 @@ exports[`Renderer:Form:onValidate 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -696,6 +708,9 @@ exports[`Renderer:Form:onValidate 3`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -823,6 +838,9 @@ exports[`Renderer:Form:onValidate 3`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -866,10 +884,7 @@ exports[`Renderer:Form:remoteValidate 1`] = `
           type="submit"
         />
         <div
-          class="cxd-Spinner-overlay"
-        />
-        <div
-          class="cxd-Spinner cxd-Spinner--overlay"
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-error"
@@ -970,6 +985,9 @@ exports[`Renderer:Form:remoteValidate 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1004,6 +1022,9 @@ exports[`Renderer:Form:valdiate 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-error is-required has-error--isRequired"
@@ -1109,6 +1130,9 @@ exports[`Renderer:Form:valdiate 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -1143,6 +1167,9 @@ exports[`Renderer:Form:valdiate 2`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal is-required"
@@ -1241,6 +1268,9 @@ exports[`Renderer:Form:valdiate 2`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 

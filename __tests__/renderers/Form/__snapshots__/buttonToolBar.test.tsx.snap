@@ -33,6 +33,9 @@ exports[`Renderer:button-toolbar 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -112,6 +115,9 @@ exports[`Renderer:button-toolbar 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -148,6 +154,9 @@ exports[`Renderer:button-toolbar 2`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -227,6 +236,9 @@ exports[`Renderer:button-toolbar 2`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
   <div
     class="amis-dialog-widget cxd-Modal cxd-Modal--1th"
     role="dialog"

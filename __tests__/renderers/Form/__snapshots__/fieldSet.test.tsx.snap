@@ -32,6 +32,9 @@ exports[`Renderer:fieldSet 1`] = `
           style="display: none;"
           type="submit"
         />
+        <div
+          class="cxd-Spinner-wrap"
+        />
         <fieldset
           class="cxd-Collapse is-active no-border"
         >
@@ -140,5 +143,8 @@ exports[`Renderer:fieldSet 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

@@ -15,21 +15,25 @@ exports[`Renderer:alert 1`] = `
           class="cxd-Page-body"
         >
           <div
-            class="cxd-Alert cxd-Alert--success"
+            class="cxd-Spinner-wrap"
           >
             <div
-              class="cxd-Alert-content"
+              class="cxd-Alert cxd-Alert--success"
             >
               <div
-                class="cxd-Alert-desc"
+                class="cxd-Alert-content"
               >
-                <span
-                  class="cxd-TplField"
+                <div
+                  class="cxd-Alert-desc"
                 >
-                  <span>
-                    提示内容
+                  <span
+                    class="cxd-TplField"
+                  >
+                    <span>
+                      提示内容
+                    </span>
                   </span>
-                </span>
+                </div>
               </div>
             </div>
           </div>
@@ -37,5 +41,8 @@ exports[`Renderer:alert 1`] = `
       </div>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

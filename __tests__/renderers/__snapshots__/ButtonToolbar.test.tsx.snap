@@ -40,5 +40,8 @@ exports[`Renderer:button-toolbar 1`] = `
       </button>
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

@@ -33,6 +33,9 @@ exports[`Renderer:button-group 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-item cxd-Form-item--normal"
           data-role="form-item"
         >
@@ -147,6 +150,9 @@ exports[`Renderer:button-group 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -181,6 +187,9 @@ exports[`Renderer:button-group:multiple clearable 1`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -293,6 +302,9 @@ exports[`Renderer:button-group:multiple clearable 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -327,6 +339,9 @@ exports[`Renderer:button-group:multiple clearable 2`] = `
         <input
           style="display: none;"
           type="submit"
+        />
+        <div
+          class="cxd-Spinner-wrap"
         />
         <div
           class="cxd-Form-item cxd-Form-item--normal"
@@ -439,5 +454,8 @@ exports[`Renderer:button-group:multiple clearable 2`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

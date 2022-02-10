@@ -20,5 +20,8 @@ exports[`Renderer:each 1`] = `
       </span>
     </span>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

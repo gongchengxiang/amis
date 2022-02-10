@@ -82,5 +82,8 @@ exports[`Renderer:carousel 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

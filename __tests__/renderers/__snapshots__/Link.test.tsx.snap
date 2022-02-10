@@ -9,5 +9,8 @@ exports[`Renderer:link 1`] = `
   >
     https://www.baidu.com
   </a>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

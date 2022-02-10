@@ -33,6 +33,9 @@ exports[`Renderer:group 1`] = `
           type="submit"
         />
         <div
+          class="cxd-Spinner-wrap"
+        />
+        <div
           class="cxd-Form-group cxd-Form-group--hor cxd-Form-group--horizontal bg-white"
         >
           <div
@@ -314,5 +317,8 @@ exports[`Renderer:group 1`] = `
       />
     </div>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;

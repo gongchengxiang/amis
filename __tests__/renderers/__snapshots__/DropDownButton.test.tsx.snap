@@ -44,6 +44,9 @@ exports[`Renderer:dropdown-button 1`] = `
       </li>
     </ul>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
 
@@ -65,5 +68,8 @@ exports[`Renderer:dropdown-button 2`] = `
       </span>
     </button>
   </div>
+  <div
+    class="cxd-Spinner-wrap"
+  />
 </div>
 `;
